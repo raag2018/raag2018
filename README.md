@@ -22,6 +22,34 @@
   
 ## 📚 Bibliotecas
 - jQuery 🕹️
+
+## Taller impartido
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Taller de Git y Github</h3>
+<div align="center">
+<a href="[https://github.com/ArisGuimera/Android-Expert](https://raag2018.github.io/taller-git/]" target="_blank">
+  <img src="https://res.cloudinary.com/dyhftwfrw/image/upload/v1697946130/dry/oyoxtuoxijmlegx6w3fc.png" width="400" ></a>
+<p>
+</p>
+<p>Taller sobre los fundamentos del uso de la herramienta de sistema de control de versiones GIT, para los estudiantes de la <b>Universidad Dr. Andrés Bello</b>.</p>
+</div>                                                                                
+</td>
+
+<td width="50%">
+               <br>
+<h3 align="center">Taller de Bootstrap 5</h3>
+<div align="center">                                       
+<a href="[https://raag2018.github.io/learn_bootstrap5/]" target="_blank">
+  <img src="https://res.cloudinary.com/dyhftwfrw/image/upload/v1697946454/dry/papdzbezb24iouk3axdp.png" width="400" ></a>
+<br>
+
+</p>Taller del framework CSS Bootstrap 5, aprendiendo el uso del framework, taller impartido a estudiantes de la <b>Universidad Dr. Andrés Bello</b></p>
+</div>                                                             
+</table>                                                                                 
+</div>
+<br>
 <!--
 **raag2018/raag2018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
