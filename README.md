@@ -1,5 +1,27 @@
-### Hi there 👋
+<div align="center">
+<h1 align="center">Hola, soy Roberto Alferes 👋</h1>
+</div>
 
+# Mi Stack
+## 🚀 Lenguajes de Programación
+- PERL
+- JavaScript 🌐
+  
+## 🌱 Frameworks
+- Bootstrap 🅱️
+
+## 🖥️ Frontend
+- HTML 
+- CSS
+  
+## 💾 Base de Datos
+- MySQL 🐬
+
+## 🔧 Herramientas de Desarrollo
+- Git 🐙
+  
+## 📚 Bibliotecas
+- jQuery 🕹️
 <!--
 **raag2018/raag2018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
